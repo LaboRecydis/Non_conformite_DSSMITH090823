@@ -24,8 +24,8 @@ if __name__=="__main__":
 
     st.write("Auteur : Brahim AIT OUALI  - Technicien chimiste")
     st.write("### I. Identification")
-    st.write(" PRODUCTEUR DU DECHET : -------------")
-    st.write("NUMERO DE BSD : -------------")
+    st.write(" PRODUCTEUR DU DECHET : DS SMITH ")
+    st.write("NUMERO DE BSD :BSD-20230808-7QQW18PM2 ")
     st.write(" : -------------")
     
     st.write("### II. Description de l'anomalie")
@@ -42,9 +42,9 @@ if __name__=="__main__":
 
 
     
-    st.write("### III. Photos")
-    st.image(img4, width=250)
-    st.image(img3, width=250)
+    #st.write("### III. Photos")
+    #st.image(img4, width=250)
+    #st.image(img3, width=250)
     
     st.write("### IV. Vidéos")
     video_file = open('video-resine.mp4', 'rb')
@@ -52,10 +52,9 @@ if __name__=="__main__":
 
     st.video(video_bytes)
     
-    st.write("Point éclair = 115,0 °C")
-    st.image(img5)
-    st.write("Pas de chlore (test de flamme négatif au chlore)")
-  
+    st.write("Le déchet reçu, Pâteux (mélange d'encre, de colle et d'eau) classé sous le code ONU 1263, est par conséquent soumis à l'ADR. Il doit par conséquent être conditionné dans un emballage homologué répondant.") 
+    st.write("Pas de chlore (Or les GRV de pâteux reçus ont été découpés et fermés par un simple film. Il ne répondent plus à l'exigence d'étanchièté.  Un déversement a été constaté sur la plateau du camion." )
+     st.write("Leur éxpédition vers le centre de traitement nécessite leur recondtionnement." )  
 
 
   
