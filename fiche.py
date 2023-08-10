@@ -32,7 +32,7 @@ if __name__=="__main__":
     
     st.write("### II. Description de l'anomalie")
     st.write("Le déchet reçu, Pâteux (mélange  d'encre, de colle et d'eau), est  classé sous le code ONU 1263.  Il est par conséquent  soumis à l'ADR. Il doit donc être conditionné dans un emballage homologué, approprié et répondant aux instructions définies par l'ADR. Or 2 des GRV de pâteux reçus ont été découpés et fermés par un simple film. Il ne répondent plus à l'exigence d'étanchièté.  Un déversement a été constaté sur la plateau du camion.") 
-    st.write("Dans le cas où le découpage des GRV a été réalisé dans un but pratique, vous pouvez utiliser un entonnoir" )
+    st.write("Dans le cas où le découpage des GRV a été réalisé dans un but pratique, vous pouvez utiliser un entonnoir." )
     st.write("Leur éxpédition vers le centre de traitement nécessite leur recondtionnement dont le coût sera défini par le service commercial." )  
 
     st.write("  --------------------------------------------------------------------------------------------------------------------------------------------")
