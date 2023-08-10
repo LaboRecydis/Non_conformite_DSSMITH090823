@@ -47,8 +47,8 @@ if __name__=="__main__":
     #st.image(img3, width=250)
     
     st.write("### IV. Vidéos")
-    video_file = open('grv_de-smith.mp4', 'rb')
-    #video_bytes = video_file.read()
+    video_file = open('grv-ds-smith.mp4', 'rb')
+    video_bytes = video_file.read()
 
     st.video(video_file)
     
