@@ -24,7 +24,7 @@ if __name__=="__main__":
 
     st.write("Auteur : Brahim AIT OUALI  - Technicien chimiste")
     st.write("### I. Identification")
-    st.write(" PRODUCTEUR DU DECHET : DS SMITH ")
+    st.write(" PRODUCTEUR DU DÉCHET : DS SMITH ")
     st.write("NUMERO DE BSD :BSD-20230808-7QQW18PM2 ")
     st.write(" : -------------")
     
