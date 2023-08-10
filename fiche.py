@@ -52,7 +52,7 @@ if __name__=="__main__":
 
     #st.video(video_bytes)
     
-    st.write("Le déchet reçu, Pâteux (mélange  d'encre, de colle et d'eau) classé sous le code ONU 1263, est par conséquent soumis à l'ADR. Il doit par conséquent être conditionné dans un emballage homologué répondant.") 
+    st.write("Le déchet reçu, Pâteux (mélange  d'encre, de colle et d'eau) classé sous le code ONU 1263, est par conséquent soumis à l'ADR. Il doit être conditionné dans un emballage homologué.") 
     st.write("Pas de chlore (Or les GRV de pâteux reçus ont été découpés et fermés par un simple film. Il ne répondent plus à l'exigence d'étanchièté.  Un déversement a été constaté sur la plateau du camion." )
     st.write("Leur éxpédition vers le centre de traitement nécessite leur recondtionnement." )  
 
